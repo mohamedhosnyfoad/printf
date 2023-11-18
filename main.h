@@ -18,6 +18,12 @@
 #define CONVERT_LOWERCASE	1
 #define CONVERT_UNSIGNED	2
 
+
+/**
+ * Auther: Mohamed Hosny
+ *
+ */
+
 /**
  * struct parameters - parameters struct
  *
