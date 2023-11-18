@@ -1,6 +1,11 @@
 #include "main.h"
 
 /**
+ * Auther: Mohamed Hosny
+ *
+ */
+
+/**
  * _puts - prints a string with newline
  * @str: the string to print
  *
